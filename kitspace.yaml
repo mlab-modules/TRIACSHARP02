@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/TRIACSHARP02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/TRIACSHARP02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/TRIACSHARP02
+summary: 'Semiconductor relay switch module.  There are 8 solid state switching relays
+  which can be digitally controlled by open collector. It can operate up to 8A on
+  250VAC. '

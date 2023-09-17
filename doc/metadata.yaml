@@ -1,0 +1,23 @@
+description: 'Semiconductor relay switch module.  There are 8 solid state switching
+  relays which can be digitally controlled by open collector. It can operate up to
+  8A on 250VAC. '
+github_branch: TRIACSHARP02A
+github_description: 'Semiconductor relay switch module.  There are 8 solid state switching
+  relays which can be digitally controlled by open collector. It can operate up to
+  8A on 250VAC. '
+github_repo: TRIACSHARP02
+github_url: https://github.com/mlab-modules/TRIACSHARP02
+homepage: false
+images:
+- doc/img/TRIACSHARP02A_bottom_small.jpg
+- doc/img/TRIACSHARP02A_top_big.jpg
+- doc/img/TRIACSHARP02A_small_top.jpg
+- doc/img/TRIACSHARP02A_big_bottom.jpg
+- doc/img/TRIACSHARP02A_big_Side.jpg
+- doc/img/TRIACSHARP02A_pedestal.png
+- doc/img/TRIACSHARP02A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: TRIACSHARP02
+updated: '2023-09-17T11:41:13.005624+00:00'
